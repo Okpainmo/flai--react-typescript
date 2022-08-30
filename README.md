@@ -1,7 +1,6 @@
 # flai--react-typescript
 
-flai is a flight data project that is built to help travelllers access flight relevant information.
-
+flai is a flight-data project that is built to help travelllers access relevant flight information.
 
 ## Build tools/stack
 
