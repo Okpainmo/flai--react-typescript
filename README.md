@@ -1,9 +1,10 @@
 # flai--react-typescript
 
-flai is a flight data project that is built to help travelllers access flight relevant information.
+## About
 
+This project is the "typescript with react testing" version of my flight information dashboard project built using OpenSky flight APIs.
 
-## Build tools/stack
+## Main Tech Tack
 
 1. ReactJS
 2. Typescript
@@ -11,4 +12,4 @@ flai is a flight data project that is built to help travelllers access flight re
 4. Gulp Js(for compiling SCSS)
 5. Bootstrap
 
-...more details coming.
+# ...
