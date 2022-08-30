@@ -11,5 +11,6 @@ This project is the "typescript with react testing" version of my flight informa
 3. SCSS
 4. Gulp Js(for compiling SCSS)
 5. Bootstrap
+6. Jest and React testing Library
 
 # ...
